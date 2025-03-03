@@ -1,0 +1,23 @@
+# ninja log v5
+95	5734	7608026264091129	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	47c4ab301cebd236
+102	5745	7608026263708075	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	21a463e95b32cb03
+6836	7493	7608026282075275	C:/WorkSpace/VoiceCar/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6z5l1m3k/obj/arm64-v8a/libswappywrapper.so	df2bbb927055a9c9
+25	5784	7608026264458277	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	44a5546c17f1d846
+5746	7549	7608026283370778	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	de34857d6884b40b
+42	6215	7608026267822271	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	79e075af437a4c7f
+187	6543	7608026272240477	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	6b9afac6397719ae
+2	6830	7608026275737469	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	ae3c064bc464c8d9
+5784	6835	7608026276101210	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	19e163f5812275fe
+5737	7674	7608026284553912	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	469f46976e94762f
+7674	7819	7608026286195487	C:/WorkSpace/VoiceCar/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6z5l1m3k/obj/arm64-v8a/libgame.so	ba44f84454144a17
+84	3278	7608043795041247	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	47c4ab301cebd236
+71	3395	7608043795391374	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	21a463e95b32cb03
+45	3485	7608043796828201	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	44a5546c17f1d846
+33	3816	7608043799942468	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	79e075af437a4c7f
+78	4281	7608043804805153	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	6b9afac6397719ae
+3486	4302	7608043805671054	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	19e163f5812275fe
+15	4514	7608043808023907	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	ae3c064bc464c8d9
+4302	4879	7608043811186475	C:/WorkSpace/VoiceCar/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6z5l1m3k/obj/arm64-v8a/libswappywrapper.so	df2bbb927055a9c9
+3278	5126	7608043814235176	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	de34857d6884b40b
+3431	5304	7608043816085518	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	469f46976e94762f
+5304	5466	7608043817787848	C:/WorkSpace/VoiceCar/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6z5l1m3k/obj/arm64-v8a/libgame.so	ba44f84454144a17
